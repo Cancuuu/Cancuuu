@@ -52,6 +52,6 @@ Hi! I'm Cancu
 <img src="https://img.shields.io/badge/-18cancu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:18cancu@gmail.com">
 </a>
 </p>
-<hr>
+<br>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
