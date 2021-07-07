@@ -3,7 +3,7 @@
 Hi! I'm Cancu
 </h1>
 
-<h3 align="center">🎖 Contribution Streak</h3>
+<h3 align="center">Contribution Streak</h3>
 
 <p align="center">
   <a href="https://gh-contribution-stats.herokuapp.com/?user=Cancuuu">
