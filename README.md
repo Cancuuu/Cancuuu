@@ -48,6 +48,9 @@ Hi! I'm Cancu. Welcome to my Github! :smiley_cat:
 <a href='https://twitter.com/CancuDev'>
 <img src="https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter">
 </a>
+<a href='https://t.me/cancu7'>
+<img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram">
+</a>
 <a href='mailto: 18cancu@gmail.com'>
 <img src="https://img.shields.io/badge/-18cancu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:18cancu@gmail.com">
 </a>
