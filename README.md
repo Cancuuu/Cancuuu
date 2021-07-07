@@ -1,9 +1,9 @@
 
 <h1 align="center"> 
-Hi! I'm Cancu
+Hi! I'm Cancu. Welcome to my Github! :smiley_cat: 
 </h1>
 
-<h3 align="center">Contribution Streak</h3>
+<h3 align="center">This is my contribution streak</h3>
 
 <p align="center">
   <a href="https://gh-contribution-stats.herokuapp.com/?user=Cancuuu">
