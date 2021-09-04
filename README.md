@@ -3,14 +3,6 @@
 Hi! I'm Cancu. Welcome to my Github! :smiley_cat: 
 </h1>
 
-<h3 align="center">This is my contribution streak</h3>
-
-<p align="center">
-  <a href="https://gh-contribution-stats.herokuapp.com/?user=Cancuuu">
-    <img src="https://gh-contribution-stats.herokuapp.com/?user=Cancuuu&theme=dark"/>
-  </a> 
-</p>
-<br>
 
 <h2 align="center"> Technologies </h2>
 
